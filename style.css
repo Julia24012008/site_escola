@@ -13,9 +13,7 @@
 }
 
 .cabecalho-imagem{
-    width: 50%;
-    height: 50%;
-    margin: 10px;
+    width: 25%;
 }
 
 .cabecalho-lista-item{
@@ -42,3 +40,9 @@
         padding: 24px 0;
     }
     
+    .imagem{
+
+        width: 50%;
+        height: 50%;
+        margin: 10px;  
+    }
