@@ -9,7 +9,7 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 10px 0;
+    padding: 24px 0;
 }
 
 .cabecalho-imagem{
@@ -42,8 +42,8 @@
     
     .imagem{
 
-        width: 50%;
-        height: 50%;
+        width: 25%;
+        height: 20%;
         margin: 10px;  
     }
 
